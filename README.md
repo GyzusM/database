@@ -1,3 +1,3 @@
-# Template para inicializar proyecto de Express
+# Template para Express
 
 Base para metodos de manejo de Usuarios
