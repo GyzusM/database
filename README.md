@@ -1,3 +1,3 @@
 # Template para inicializar proyecto de Express
 
-Ejemplo de CRUD
+Base para metodos de manejo de Usuarios
